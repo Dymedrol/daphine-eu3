@@ -1,0 +1,824 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "sections": {
+    "section_hero_ethcD9": {
+      "type": "section-hero",
+      "blocks": {
+        "heading_iJ8p9Y": {
+          "type": "heading",
+          "settings": {
+            "title": "",
+            "heading_size": 11,
+            "mobile_heading_size": 11
+          }
+        },
+        "text_pywp6e": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "description": "Tell your brand's story through images.",
+            "text_size": 5,
+            "mobile_text_size": 5,
+            "text_style": "font-body"
+          }
+        },
+        "button_EXG48V": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "link_text": "View products",
+            "link": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_iJ8p9Y",
+        "text_pywp6e",
+        "button_EXG48V"
+      ],
+      "settings": {
+        "height": "screen-height-full",
+        "width": "wrapper--full",
+        "image_1": "shopify:\/\/shop_images\/Monikh_x_Daphine_Banner_2.png",
+        "mobile_height": "screen-height-three-quarters--mobile",
+        "mobile_image": "shopify:\/\/shop_images\/Daphine_Monikh-pt.II_Rochelle-earrings-silver_Singh-necklace-silver_dafe7d9b-ed4a-4f45-b969-8e8bf7744186.jpg",
+        "flex_align": "align--middle-center",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000",
+        "show_overlay_text": false,
+        "bg_color": "",
+        "color": "#ffffff"
+      }
+    },
+    "hero": {
+      "type": "collection-image-with-title",
+      "custom_css": [
+        ".hero__description,.hero__title {max-width: 720px !important; margin: 0 auto;}",
+        ".hero__description {line-height: 25px;}",
+        "@media screen and (max-width: 480px) {.hero__description {padding: 10px 30px; line-height: 22px; } .hero__title {padding-top: 10px; }}"
+      ],
+      "settings": {
+        "show_title": true,
+        "show_description": true,
+        "flex_align": "align--middle-center",
+        "bg_color": "",
+        "color": "",
+        "show_image": false,
+        "banner_layout": "overlay",
+        "height": "screen-height-one-third",
+        "mobile_height": "screen-height-one-half--mobile",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000",
+        "show_overlay_text": false,
+        "padding_top": 50,
+        "padding_bottom": 0
+      }
+    },
+    "section_collection_iU7LYX": {
+      "type": "section-collection",
+      "settings": {
+        "heading": "Monikh's Favourites",
+        "description": "",
+        "layout": "center",
+        "link_text": "",
+        "link_url": "",
+        "button_type": "btn--primary",
+        "button_size": "",
+        "button_style": "btn--solid",
+        "show_arrow": false,
+        "featured_collection": "monikh-x-daphine-vol-ii",
+        "style": "grid",
+        "grid": 4,
+        "rows": 3,
+        "layout_mobile": "carousel",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 30,
+        "padding_bottom": 50
+      }
+    },
+    "section_hero_r4nefN": {
+      "type": "section-hero",
+      "blocks": {
+        "heading_qWTB4C": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "title": "Image banner",
+            "heading_size": 11,
+            "mobile_heading_size": 11
+          }
+        },
+        "text_w9pDet": {
+          "type": "text",
+          "settings": {
+            "description": "Delhi Hair Cuff",
+            "text_size": 4,
+            "mobile_text_size": 4,
+            "text_style": "font-body"
+          }
+        },
+        "button_jytJfP": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "link_text": "View products",
+            "link": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_qWTB4C",
+        "text_w9pDet",
+        "button_jytJfP"
+      ],
+      "settings": {
+        "height": "screen-height-full",
+        "width": "wrapper--full-padded",
+        "image_1": "shopify:\/\/shop_images\/Daphine_Monikh-pt.II_Delhi-hair-cuff.jpg",
+        "mobile_height": "screen-height-three-quarters--mobile",
+        "flex_align": "align--bottom-left",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000",
+        "show_overlay_text": false,
+        "bg_color": "",
+        "color": "#ffffff"
+      }
+    },
+    "section_columns_FRpwDT": {
+      "type": "section-columns",
+      "blocks": {
+        "image_hjDNqJ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Daphine_Monikh-pt.II_Rochelle-earrings-silver.jpg",
+            "title": "",
+            "heading_size": 4,
+            "mobile_heading_size": 4,
+            "text": "",
+            "text_size": 3,
+            "mobile_text_size": 3,
+            "button_text": "",
+            "button_url": "shopify:\/\/products\/rochelle-silver-plated-earrings",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
+        },
+        "image_3Ntew7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Daphine_Monikh-pt.II_Reena-rings.jpg",
+            "title": "",
+            "heading_size": 4,
+            "mobile_heading_size": 4,
+            "text": "",
+            "text_size": 3,
+            "mobile_text_size": 3,
+            "button_text": "",
+            "button_url": "shopify:\/\/products\/reena-ring",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
+        }
+      },
+      "block_order": [
+        "image_hjDNqJ",
+        "image_3Ntew7"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": 5,
+        "mobile_heading_size": 5,
+        "align_text": "text-left",
+        "align_columns": "flex-align-top",
+        "width": "wrapper--full-padded",
+        "image_aspect_ratio": 1,
+        "mobile_image_aspect_ratio": 1,
+        "bg_color": "",
+        "color": "",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "layout_mobile": "carousel"
+      }
+    },
+    "section_hero_JDf34J": {
+      "type": "section-hero",
+      "blocks": {
+        "heading_pMy9ci": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "title": "Image banner",
+            "heading_size": 11,
+            "mobile_heading_size": 11
+          }
+        },
+        "text_34Lfi4": {
+          "type": "text",
+          "settings": {
+            "description": "Preeth Bangle",
+            "text_size": 4,
+            "mobile_text_size": 4,
+            "text_style": "font-body"
+          }
+        },
+        "button_LraXC7": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "link_text": "View products",
+            "link": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_pMy9ci",
+        "text_34Lfi4",
+        "button_LraXC7"
+      ],
+      "settings": {
+        "height": "screen-height-full",
+        "width": "wrapper--full-padded",
+        "image_1": "shopify:\/\/shop_images\/Daphine_Monikh-pt.II_Preeth-bangle-1.jpg",
+        "mobile_height": "screen-height-three-quarters--mobile",
+        "flex_align": "align--bottom-left",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000",
+        "show_overlay_text": false,
+        "bg_color": "",
+        "color": "#ffffff"
+      }
+    },
+    "section_columns_CFDq6U": {
+      "type": "section-columns",
+      "blocks": {
+        "image_VkpDYc": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Daphine_Monikh-pt.II_Dale-necklace_Dhari-necklace-2.jpg",
+            "title": "",
+            "heading_size": 4,
+            "mobile_heading_size": 4,
+            "text": "",
+            "text_size": 3,
+            "mobile_text_size": 3,
+            "button_text": "",
+            "button_url": "shopify:\/\/products\/dale-necklace",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
+        },
+        "image_qQkGJi": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Daphine_Monikh-pt.II_Dale-necklace_Dhari-necklace-1.jpg",
+            "title": "",
+            "heading_size": 4,
+            "mobile_heading_size": 4,
+            "text": "",
+            "text_size": 3,
+            "mobile_text_size": 3,
+            "button_text": "",
+            "button_url": "shopify:\/\/products\/dhari-necklace",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
+        }
+      },
+      "block_order": [
+        "image_VkpDYc",
+        "image_qQkGJi"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": 5,
+        "mobile_heading_size": 5,
+        "align_text": "text-left",
+        "align_columns": "flex-align-top",
+        "width": "wrapper--full-padded",
+        "image_aspect_ratio": 1,
+        "mobile_image_aspect_ratio": 1,
+        "bg_color": "",
+        "color": "",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "layout_mobile": "carousel"
+      }
+    },
+    "section_hero_eX9qeU": {
+      "type": "section-hero",
+      "blocks": {
+        "heading_pf8BWr": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "title": "Image banner",
+            "heading_size": 11,
+            "mobile_heading_size": 11
+          }
+        },
+        "text_VntPD4": {
+          "type": "text",
+          "settings": {
+            "description": "Swin Necklace",
+            "text_size": 4,
+            "mobile_text_size": 4,
+            "text_style": "font-body"
+          }
+        },
+        "button_99xPbR": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "link_text": "View products",
+            "link": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_pf8BWr",
+        "text_VntPD4",
+        "button_99xPbR"
+      ],
+      "settings": {
+        "height": "image-height",
+        "width": "wrapper--full-padded",
+        "image_1": "shopify:\/\/shop_images\/Daphine_Monikh-pt.II_Swin-necklace-2.jpg",
+        "mobile_height": "screen-height-three-quarters--mobile",
+        "flex_align": "align--bottom-left",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000",
+        "show_overlay_text": false,
+        "bg_color": "",
+        "color": "#ffffff"
+      }
+    },
+    "section_columns_pfBgBH": {
+      "type": "section-columns",
+      "blocks": {
+        "image_wGjt3e": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Daphine_Dalenecklace.jpg",
+            "title": "",
+            "heading_size": 4,
+            "mobile_heading_size": 4,
+            "text": "",
+            "text_size": 3,
+            "mobile_text_size": 3,
+            "button_text": "",
+            "button_url": "shopify:\/\/products\/dale-necklace",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
+        },
+        "image_GRjHk8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Daphine_Monikh-pt.II_Swin-necklace.jpg",
+            "title": "",
+            "heading_size": 4,
+            "mobile_heading_size": 4,
+            "text": "",
+            "text_size": 3,
+            "mobile_text_size": 3,
+            "button_text": "",
+            "button_url": "shopify:\/\/products\/swin-necklace",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
+        }
+      },
+      "block_order": [
+        "image_wGjt3e",
+        "image_GRjHk8"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": 5,
+        "mobile_heading_size": 5,
+        "align_text": "text-left",
+        "align_columns": "flex-align-top",
+        "width": "wrapper--full-padded",
+        "image_aspect_ratio": 1,
+        "mobile_image_aspect_ratio": 1,
+        "bg_color": "",
+        "color": "",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "layout_mobile": "carousel"
+      }
+    },
+    "section_hero_J9VgTy": {
+      "type": "section-hero",
+      "blocks": {
+        "heading_wta8Ym": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "title": "Image banner",
+            "heading_size": 11,
+            "mobile_heading_size": 11
+          }
+        },
+        "text_fFKi8A": {
+          "type": "text",
+          "settings": {
+            "description": "Rochelle Earrings and Singh Necklace",
+            "text_size": 4,
+            "mobile_text_size": 4,
+            "text_style": "font-body"
+          }
+        },
+        "button_qjc9pN": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "link_text": "View products",
+            "link": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_wta8Ym",
+        "text_fFKi8A",
+        "button_qjc9pN"
+      ],
+      "settings": {
+        "height": "image-height",
+        "width": "wrapper--full-padded",
+        "image_1": "shopify:\/\/shop_images\/Daphine_Monikh-pt.II_Singh-necklace-silver.jpg",
+        "mobile_height": "screen-height-three-quarters--mobile",
+        "flex_align": "align--bottom-left",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000",
+        "show_overlay_text": false,
+        "bg_color": "",
+        "color": "#ffffff"
+      }
+    },
+    "subcollections": {
+      "type": "subcollections",
+      "disabled": true,
+      "settings": {
+        "subcollection_layout": "grid",
+        "subcollection_description": false,
+        "select_image": "collection",
+        "color": "#ffffff",
+        "bg_color": "",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "section_hero_z9kYFp": {
+      "type": "section-hero",
+      "disabled": true,
+      "settings": {
+        "height": "screen-height-three-quarters",
+        "width": "wrapper--full",
+        "image_1": "{{ collection.metafields.custom.collection_page_banner.value }}",
+        "mobile_height": "screen-height-three-quarters--mobile",
+        "flex_align": "align--middle-center",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000",
+        "show_overlay_text": false,
+        "bg_color": "",
+        "color": "#ffffff"
+      }
+    },
+    "main": {
+      "type": "collection",
+      "blocks": {
+        "f476d08a-623e-4337-b0df-21f02b5bb8d1": {
+          "type": "featured_image",
+          "disabled": true,
+          "settings": {
+            "coll": "earrings",
+            "featured_image": "shopify:\/\/shop_images\/Daphine_Thea-earrings-mobile.jpg",
+            "featured_heading": "Meet Thea",
+            "featured_text": "",
+            "featured_button_text": "Early access",
+            "featured_button_link": "",
+            "button_type": "btn--primary",
+            "button_size": "btn--small",
+            "button_style": "btn--outline",
+            "show_arrow": false,
+            "featured_color_text": "#ffffff",
+            "featured_color_overlay": "#222222",
+            "featured_overlay_opacity": 10
+          }
+        },
+        "b64cd888-7f9d-4ecd-bd88-81a2b78b7697": {
+          "type": "featured_image",
+          "disabled": true,
+          "settings": {
+            "coll": "all",
+            "featured_image": "shopify:\/\/shop_images\/Daphine_Abi_Ayoka_earrings_2_3904dd65-41de-4d2a-960b-eda1f070c847.jpg",
+            "featured_heading": "The Collective",
+            "featured_text": "<p>x Abisola Omole<\/p>",
+            "featured_button_text": "Learn more",
+            "featured_button_link": "shopify:\/\/products\/ayoka-earrings",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--outline",
+            "show_arrow": false,
+            "featured_color_text": "#ffffff",
+            "featured_color_overlay": "#222222",
+            "featured_overlay_opacity": 10
+          }
+        }
+      },
+      "block_order": [
+        "f476d08a-623e-4337-b0df-21f02b5bb8d1",
+        "b64cd888-7f9d-4ecd-bd88-81a2b78b7697"
+      ],
+      "disabled": true,
+      "settings": {
+        "show_on_model_pic": false,
+        "enable_sort": true,
+        "enable_filters": true,
+        "filter_layout": "slide-out",
+        "collection_linklist": "",
+        "grid": 3,
+        "grid_mobile": "2",
+        "product_limit": 36,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "section_tab_collections_hFJNGi": {
+      "type": "section-tab-collections",
+      "blocks": {
+        "collection_FVjPBW": {
+          "type": "collection",
+          "settings": {
+            "title": "EARRINGS",
+            "featured_collection": "earrings",
+            "show_image": false,
+            "align_with_product_images": false,
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "description": "",
+            "color": "#ffffff",
+            "link_text": "View products",
+            "link": "",
+            "button_type": "btn--white",
+            "button_size": "",
+            "button_style": "btn--outline",
+            "show_arrow": false
+          }
+        },
+        "collection_k3BH7T": {
+          "type": "collection",
+          "settings": {
+            "title": "BRACELETS",
+            "featured_collection": "bracelets",
+            "show_image": false,
+            "align_with_product_images": false,
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "description": "",
+            "color": "#ffffff",
+            "link_text": "View products",
+            "link": "",
+            "button_type": "btn--white",
+            "button_size": "",
+            "button_style": "btn--outline",
+            "show_arrow": false
+          }
+        },
+        "collection_jBpj37": {
+          "type": "collection",
+          "settings": {
+            "title": "RINGS",
+            "featured_collection": "rings",
+            "show_image": false,
+            "align_with_product_images": false,
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "description": "",
+            "color": "#ffffff",
+            "link_text": "View products",
+            "link": "",
+            "button_type": "btn--white",
+            "button_size": "",
+            "button_style": "btn--outline",
+            "show_arrow": false
+          }
+        },
+        "collection_dbm3qB": {
+          "type": "collection",
+          "settings": {
+            "title": "NECKLACES",
+            "featured_collection": "necklaces",
+            "show_image": false,
+            "align_with_product_images": false,
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "description": "",
+            "color": "#ffffff",
+            "link_text": "View products",
+            "link": "",
+            "button_type": "btn--white",
+            "button_size": "",
+            "button_style": "btn--outline",
+            "show_arrow": false
+          }
+        }
+      },
+      "block_order": [
+        "collection_FVjPBW",
+        "collection_k3BH7T",
+        "collection_jBpj37",
+        "collection_dbm3qB"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "VIEW MORE",
+        "text": "",
+        "layout": "stacked",
+        "show_product_count": false,
+        "product_limit": 12,
+        "bg_color": "",
+        "color": "",
+        "padding_top": 32,
+        "padding_bottom": 32
+      }
+    },
+    "text_promo_DWLNdm": {
+      "type": "text-promo",
+      "blocks": {
+        "heading_WrAdHB": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "title": "Text promo"
+          }
+        },
+        "text_xFDpwU": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "content": "Advertise a promotion or a sale"
+          }
+        },
+        "button_hgdAAB": {
+          "type": "button",
+          "settings": {
+            "button_text": "SHOP MONIKH X DAPHINE",
+            "button_url": "shopify:\/\/collections\/monikh-x-daphine-v-ii",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--outline",
+            "show_arrow": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_WrAdHB",
+        "text_xFDpwU",
+        "button_hgdAAB"
+      ],
+      "settings": {
+        "width": "wrapper--full-padded",
+        "border": true,
+        "bg_color": "",
+        "color": "",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000",
+        "show_overlay_text": false,
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
+    },
+    "section_multicolumn_YPdQec": {
+      "type": "section-multicolumn",
+      "blocks": {
+        "icon_FUwjHR": {
+          "type": "icon",
+          "settings": {
+            "column_width": 33,
+            "icon_name": "icon-fast-shipment",
+            "icon_size": 20,
+            "icon_alignment": "icon--top",
+            "icon_color": "#ffffff",
+            "title": "Express Shipping on all EU orders and Easy Returns",
+            "heading_size": 3,
+            "mobile_heading_size": 3,
+            "text": "",
+            "text_size": 3,
+            "mobile_text_size": 3
+          }
+        },
+        "icon_X8HKtb": {
+          "type": "icon",
+          "settings": {
+            "column_width": 33,
+            "icon_name": "icon-box",
+            "icon_size": 20,
+            "icon_alignment": "icon--top",
+            "icon_color": "#ffffff",
+            "title": "Free delivery to EU on orders over €150",
+            "heading_size": 3,
+            "mobile_heading_size": 3,
+            "text": "",
+            "text_size": 3,
+            "mobile_text_size": 3
+          }
+        },
+        "icon_tzLhdE": {
+          "type": "icon",
+          "settings": {
+            "column_width": 33,
+            "icon_name": "icon-heart",
+            "icon_size": 20,
+            "icon_alignment": "icon--top",
+            "icon_color": "#ffffff",
+            "title": "Independently Women Owned",
+            "heading_size": 3,
+            "mobile_heading_size": 3,
+            "text": "",
+            "text_size": 3,
+            "mobile_text_size": 3
+          }
+        }
+      },
+      "block_order": [
+        "icon_FUwjHR",
+        "icon_X8HKtb",
+        "icon_tzLhdE"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": 5,
+        "mobile_heading_size": 5,
+        "align_text": "text-center",
+        "align_columns": "flex-align-center",
+        "width": "wrapper",
+        "bg_color": "#5b5e3f",
+        "color": "#ffffff",
+        "padding_top": 30,
+        "padding_bottom": 32,
+        "layout_mobile": "grid"
+      }
+    }
+  },
+  "order": [
+    "section_hero_ethcD9",
+    "hero",
+    "section_collection_iU7LYX",
+    "section_hero_r4nefN",
+    "section_columns_FRpwDT",
+    "section_hero_JDf34J",
+    "section_columns_CFDq6U",
+    "section_hero_eX9qeU",
+    "section_columns_pfBgBH",
+    "section_hero_J9VgTy",
+    "subcollections",
+    "section_hero_z9kYFp",
+    "main",
+    "section_tab_collections_hFJNGi",
+    "text_promo_DWLNdm",
+    "section_multicolumn_YPdQec"
+  ]
+}

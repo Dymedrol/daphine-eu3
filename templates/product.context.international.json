@@ -1,0 +1,28 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "parent": "product.json",
+  "context": {
+    "market": "international"
+  },
+  "sections": {
+    "main": {
+      "settings": {
+      },
+      "blocks": {
+        "tabs": {
+          "settings": {
+            "raw_content_2": "<p>Free EU Shipping over £150<\/p><p>See our <a href=\"\/pages\/shipping-returns2\" title=\"SHIPPING\">Shipping Page<\/a> for more details and a full list of countries we ship to.<\/p><p>We offer free returns for our customers. Please see <a href=\"\/pages\/returns\" title=\"RETURNS INFORMATION | DAPHINE\">Returns<\/a> for details.<\/p>"
+          }
+        }
+      }
+    }
+  }
+}
